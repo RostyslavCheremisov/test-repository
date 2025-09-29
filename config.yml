@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: user-profile
+  profiles:
+    include: actuator
+  jackson:
+    default-property-inclusion: use_defaults
