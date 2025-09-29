@@ -1,4 +1,12 @@
 {
-  "name": "Rostyslav",
-  "age": "34"
+  [
+    {
+      "name": "Rostyslav",
+      "age": "34"
+    },
+    {
+      "name": "Viktoria",
+      "age": "29"
+    }
+  ]
 }
